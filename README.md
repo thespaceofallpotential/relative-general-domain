@@ -1,16 +1,16 @@
 # relative general-domain
 
-> thoughts on P vs NP/ NP-hard/ NP-complete
- 
+An exploration of knowledge and intelligence, *(and the evolution thereof)*, in terms of P vs NP/ NP-hard/ NP-complete/ etc...
+
+#### *—if a solution is easy to check, is it easy to find?*
+
+> *(spoiler: fuck yeah)*
+
 ---
 
 > "in nature, nothing exists alone"
 > 
 > *— rachel carson, silent spring*
-
----
-
-### *—if a solution is easy to check, is it easy to find?*
 
 ---
 
