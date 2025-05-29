@@ -4,8 +4,6 @@ An exploration of knowledge and intelligence, *(and the evolution thereof)*, in 
 
 #### *—if a solution is easy to check, is it easy to find?*
 
-> *(spoiler: fuck yeah)*
-
 ---
 
 > "in nature, nothing exists alone"
