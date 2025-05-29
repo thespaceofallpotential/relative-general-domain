@@ -1,14 +1,16 @@
 # the relative general domain
 
 > thoughts on P vs NP/ NP-hard/ NP-complete
-
+> 
 > *(continued from https://hachyderm.io/@smooch/114527873335981200)*
 
 ---
+
 ### *—if a solution is easy to check, is it easy to find?*
 
-> "in nature, nothing exists alone"
 
+> "in nature, nothing exists alone"
+> 
 > *— rachel carson, silent spring*
 
 i think that it's important to remember that *nature* is pretty big: and that it includes every single problem, *(and respective solution)*, ever devised *(or contrived)* by humans...
