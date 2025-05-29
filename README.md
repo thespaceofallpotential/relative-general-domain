@@ -4,9 +4,8 @@
 
 > *(continued from https://hachyderm.io/@smooch/114527873335981200)*
 
-### *—if a solution is easy to check, is it easy to find?*
-
 ---
+### *—if a solution is easy to check, is it easy to find?*
 
 > "in nature, nothing exists alone"
 
