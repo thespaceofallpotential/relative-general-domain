@@ -1,6 +1,6 @@
-# relative general-domain
+# common sense
 
-An exploration of the evolution of universal form, complexity, knowledge, and intelligence, in terms of P vs NP/ NP-hard/ NP-complete/ etc...
+Exploring the evolution of knowledge and intelligence *(and more broadly the evolution of universal form and complexity)*, in terms of P vs NP/ NP-hard/ NP-complete *"longest common subsequence"* [^1]  
 
 #### *—if a solution is easy to check, is it easy to find?*
 
@@ -18,3 +18,4 @@ An exploration of the evolution of universal form, complexity, knowledge, and in
 
 
 
+[^1]: https://en.wikipedia.org/wiki/Longest_common_subsequence
